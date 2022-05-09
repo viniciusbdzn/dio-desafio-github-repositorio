@@ -1,0 +1,17 @@
+Link para baixar o Git: https://git-scm.com/download/win
+
+---COMANDOS ÚTEIS DO GIT---
+
+# copiar repositório do GitHub, ir na página de repoiórios e copiar o link de repositório do github e clonar usando --> git clone (link https)
+
+# para iniciar o Git em uma pasta --> git init 
+
+# preparar o arquivo para fazer o commit --> git add *
+
+# visualizar status dos arquivos --> git status
+
+# fazer commit dos arquivos --> git commit -m
+
+# fazer o push dos arquivos enviando para o repositorio --> git push origin master
+
+# copiar repositório do github --> git push origin master
